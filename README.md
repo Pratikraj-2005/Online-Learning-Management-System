@@ -49,7 +49,7 @@ This project is a Learning Management System (LMS) built with React.js for the f
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/PATMESH/Learning-Management-System.git
+    https://github.com/Pratikraj-2005/Online-Learning-Management-System.git
     ```
 
 2. Navigate to the frontend and backend folders and follow their respective setup instructions.
@@ -74,7 +74,7 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 ## Site Images
 **Login:**
 
-![Screenshot (84)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/5287bb3e-32b3-4d07-b430-30d9f0f8c511)
+![Screenshot (84)](https://github.com/PRATIK/Learning-Management-System/assets/101879714/5287bb3e-32b3-4d07-b430-30d9f0f8c511)
 
 
 

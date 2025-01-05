@@ -74,7 +74,7 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 ## Site Images
 **Login:**
 
-![Screenshot (84)](https://github.com/PRATIK/Learning-Management-System/assets/101879714/5287bb3e-32b3-4d07-b430-30d9f0f8c511)
+![Screenshot (84)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/5287bb3e-32b3-4d07-b430-30d9f0f8c511)
 
 
 
